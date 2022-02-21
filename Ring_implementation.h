@@ -1,4 +1,4 @@
-#include "ring.h"
+#include "Ring.h"
 
 template<typename Key, typename Info>
 Ring<Key,Info>::Ring(){
